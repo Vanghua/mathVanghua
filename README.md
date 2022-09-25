@@ -1,0 +1,1 @@
+这是一个针对数学二的总结，在typora下使用markdown编写，在github中浏览会有公式格式错误
